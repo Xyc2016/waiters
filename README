@@ -1,0 +1,4 @@
+# Waiters.
+
+## Introduction
+A simple distributed task queue written in Golang.

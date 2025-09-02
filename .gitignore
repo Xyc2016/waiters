@@ -1,0 +1,26 @@
+# Binaries for current platform
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test results
+*.test
+*.out
+
+# Go module cache
+# This can be ignored as `go mod download` will fetch dependencies.
+# If you are using Go modules, this directory should generally be ignored.
+# vendor/ is also often ignored if you rely on `go mod vendor` or similar.
+vendor/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.bak
+*.log
+
+# Other temporary files
+temp/
+tmp/
