@@ -1,4 +1,4 @@
-module waiters
+module github.com/Xyc2016/waiters
 
 go 1.25.0
 
